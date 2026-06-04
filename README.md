@@ -197,11 +197,12 @@ walmart_sales_forecasting/
 
 ## 👨‍💻 Author
 
-Pavan Pawar Patil
+Pavan Pawar
 
 Aspiring Data Scientist | Python Developer | Machine Learning Enthusiast
 
 LinkedIn:
 www.linkedin.com/in/pavan-pawar-patil
 
-GitHub:
+GitHub: 
+https://github.com/pavanpawarpatil
